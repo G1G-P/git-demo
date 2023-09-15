@@ -1,4 +1,4 @@
 # git-demo
 demo repository
 <br/>
-from jeevan
+author jeevan
